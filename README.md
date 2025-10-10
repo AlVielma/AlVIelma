@@ -20,8 +20,6 @@
 - 📲 He desarrollado apps móviles en **Android Studio (Kotlin/Java)** para control de rondines y sistemas de riego.  
 - ☁️ Conocimiento en despliegue en **DigitalOcean, Nginx, Cloudflare** y bases de datos escalables.  
 - 📬 Contáctame en: **vielma7220@icloud.com**  
-- 🔗 Portafolio de proyectos en mi [GitHub](https://github.com/AlVielma)  
-
 ---
 
 ## 🛠️ Tecnologías y Herramientas
