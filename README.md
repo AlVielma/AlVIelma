@@ -68,15 +68,7 @@
 
 ---
 
-## 📊 Estadísticas de GitHub
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=AlVielma&theme=dark&show_icons=true&count_private=true" />
-  <br><br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AlVielma&theme=dark&hide_border=false" />
-  <br><br>
-  <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=AlVielma&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=7"/>
-</p>
 
 ---
 
