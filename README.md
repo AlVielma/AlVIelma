@@ -66,11 +66,6 @@
 - **☁️ Infraestructura Escalable y Segura** – Laravel 9 + DigitalOcean  
   Arquitectura escalable con balanceo en Nginx, replicación MySQL, 2FA y Cloudflare para DNS, SSL y protección DDoS.
 
----
-
-
-
----
 
 <div align="center">
   
